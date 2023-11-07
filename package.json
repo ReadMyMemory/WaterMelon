@@ -1,0 +1,11 @@
+{
+  "name": "watermelon",
+  "version": "0.0.1",
+  "description": "자바스크립트로 만드는 수박게임 ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mori",
+  "license": "MIT"
+}
