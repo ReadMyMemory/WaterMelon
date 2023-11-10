@@ -1,11 +1,14 @@
 {
-  "name": "watermelon",
-  "version": "0.0.1",
-  "description": "자바스크립트로 만드는 수박게임 ",
-  "main": "index.js",
+  "name": "watermelon-suika-game",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
   },
-  "author": "mori",
-  "license": "MIT"
+  "devDependencies": {
+    "vite": "^4.4.5"
+  }
 }
